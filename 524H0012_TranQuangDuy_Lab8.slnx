@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Exercise1_RazorPages/">
+    <Project Path="SchoolAppCoreRazor/SchoolAppCoreRazor.csproj" />
+  </Folder>
+  <Folder Name="/Exercise2_MVC/">
+    <Project Path="SchoolAppCoreMVC/SchoolAppCoreMVC.csproj" />
+  </Folder>
+</Solution>
